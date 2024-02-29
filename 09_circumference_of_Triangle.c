@@ -5,7 +5,7 @@ int main(){
         scanf("%d",&a);
     printf("Enter base:");
         scanf("%d",&b);
-    printf("Enter hight:");
+    printf("Enter height:");
     scanf("%d",&c);
     int area=a+b+c;
     printf("Circumference of triangle:%d",area);
