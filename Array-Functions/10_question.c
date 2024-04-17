@@ -14,9 +14,8 @@ int palindrom(int num){
     else{
         return false;
     }
-
-
 }
+
 void main(){
     int num;
     printf("enter the number:");
